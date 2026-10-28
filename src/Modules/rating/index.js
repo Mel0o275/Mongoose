@@ -1,0 +1,1 @@
+export {default as ratingController} from "./rating.controller.js"
